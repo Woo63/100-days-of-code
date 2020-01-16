@@ -18,4 +18,11 @@
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update
 
 
+### Day 3: January 16, 2020
+
+**Today's Progress**: freecodecamp (No Repeats Please)
+
+**Thoughts:** I trained in using recursion. I don't like it.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please
 
