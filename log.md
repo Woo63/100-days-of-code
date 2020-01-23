@@ -26,3 +26,11 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/no-repeats-please
 
+
+### Day 4: January 23, 2020
+
+**Today's Progress**: freecodecamp (Pairwise)
+
+**Thoughts:** It was easy.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise
