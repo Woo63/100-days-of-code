@@ -34,3 +34,14 @@
 **Thoughts:** It was easy.
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise
+
+
+### Day 5: January 24, 2020
+
+**Today's Progress**: freecodecamp (Implement Bubble Sort, Implement Selection Sort, Implement Insertion Sort)
+
+**Thoughts:** I remembered my first steps in programming.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort
+                  https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort
+                  https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort
