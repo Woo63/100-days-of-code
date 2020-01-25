@@ -45,3 +45,12 @@
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort
                   https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort
                   https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort
+
+
+### Day 6: January 25, 2020
+
+**Today's Progress**: freecodecamp (Implement Quick Sort)
+
+**Thoughts:** It took longer than it should.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort
