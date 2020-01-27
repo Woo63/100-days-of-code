@@ -54,3 +54,12 @@
 **Thoughts:** It took longer than it should.
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort
+
+
+### Day 7: January 27, 2020
+
+**Today's Progress**: freecodecamp (Implement Merge Sort)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort
