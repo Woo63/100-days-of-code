@@ -63,3 +63,13 @@
 **Thoughts:** 
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort
+
+
+### Day 8: January 29, 2020
+
+**Today's Progress**: freecodecamp (Data Structures)
+
+**Thoughts:** That was helpful.
+
+**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/
+
