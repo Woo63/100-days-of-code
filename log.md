@@ -73,3 +73,14 @@
 
 **Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/
 
+
+### Day 9: January 30, 2020
+
+**Today's Progress**: freecodecamp (Data Structures)
+
+**Thoughts:** I have a great mood and tasks seemed easier for me.
+
+**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue
+                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class
+                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets
+
