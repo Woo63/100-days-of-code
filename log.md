@@ -91,5 +91,6 @@
 
 **Thoughts:** I feel like I'm doing it better every day.
 
-**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
+**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data
+                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
 
