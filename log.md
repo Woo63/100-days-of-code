@@ -67,7 +67,7 @@
 
 ### Day 8: January 29, 2020
 
-**Today's Progress**: freecodecamp (Data Structures)
+**Today's Progress**: freecodecamp (Data Structures(5))
 
 **Thoughts:** That was helpful.
 
@@ -76,11 +76,20 @@
 
 ### Day 9: January 30, 2020
 
-**Today's Progress**: freecodecamp (Data Structures)
+**Today's Progress**: freecodecamp (Data Structures(3))
 
 **Thoughts:** I have a great mood and tasks seemed easier for me.
 
 **Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue
                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class
                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets
+                 
+                 
+### Day 10: January 31, 2020
+
+**Today's Progress**: freecodecamp (Data Structures(8))
+
+**Thoughts:** I feel like I'm doing it better every day.
+
+**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
 
