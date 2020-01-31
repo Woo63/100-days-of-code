@@ -71,7 +71,7 @@
 
 **Thoughts:** That was helpful.
 
-**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/
 
 
 ### Day 9: January 30, 2020
@@ -80,9 +80,9 @@
 
 **Thoughts:** I have a great mood and tasks seemed easier for me.
 
-**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue
-                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class
-                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets
                  
                  
 ### Day 10: January 31, 2020
@@ -91,6 +91,6 @@
 
 **Thoughts:** I feel like I'm doing it better every day.
 
-**Link to work:**https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data
-                 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
 
