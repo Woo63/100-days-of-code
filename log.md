@@ -87,10 +87,19 @@
                  
 ### Day 10: January 31, 2020
 
-**Today's Progress**: freecodecamp (Data Structures(8))
+**Today's Progress**: freecodecamp (Data Structures(9))
 
 **Thoughts:** I feel like I'm doing it better every day.
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data
                   https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure
+                  
+                  
+### Day 11: February 1, 2020
+
+**Today's Progress**: freecodecamp (Create a Hash Table)
+
+**Thoughts:** I freshened up my memory today.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table
 
