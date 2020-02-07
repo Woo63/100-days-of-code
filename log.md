@@ -103,3 +103,39 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table
 
+
+### Day 12: February 4, 2020
+
+**Today's Progress**: freecodecamp (2 Linked List)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class 
+
+
+### Day 13: February 5, 2020
+
+**Today's Progress**: freecodecamp (2 Linked List function)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list
+
+
+### Day 14: February 6, 2020
+
+**Today's Progress**: freecodecamp (2 Linked List index)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list-by-index
+
+
+### Day 15: February 7, 2020
+
+**Today's Progress**: freecodecamp (2 Doubly Linked List)
+
+**Thoughts:** I like linked list. 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-doubly-linked-list
+
