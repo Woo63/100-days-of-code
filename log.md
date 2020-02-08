@@ -139,3 +139,13 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-doubly-linked-list
 
+
+### Day 16: February 8, 2020
+
+**Today's Progress**: freecodecamp (5 Binary Search Tree)
+
+**Thoughts:**  I refreshed binary search trees in my memory.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-a-new-element-to-a-binary-search-tree
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-height-of-a-binary-search-tree
+
