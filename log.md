@@ -149,3 +149,12 @@
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-a-new-element-to-a-binary-search-tree
                   https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-height-of-a-binary-search-tree
 
+
+### Day 17: February 9, 2020
+
+**Today's Progress**: freecodecamp (2 Search in a Binary Search Tree)
+
+**Thoughts:**  
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-depth-first-search-in-a-binary-search-tree
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree
