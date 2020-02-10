@@ -158,3 +158,14 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-depth-first-search-in-a-binary-search-tree
                   https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree
+
+
+### Day 18: February 10, 2020
+
+**Today's Progress**: freecodecamp (3 delete a node in a binary search tree)
+
+**Thoughts:**  Too much "if"
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-leaf-node-in-a-binary-search-tree
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-one-child-in-a-binary-search-tree
+                  https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-two-children-in-a-binary-search-tree
