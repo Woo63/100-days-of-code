@@ -169,3 +169,32 @@
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-leaf-node-in-a-binary-search-tree
                   https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-one-child-in-a-binary-search-tree
                   https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-two-children-in-a-binary-search-tree
+
+
+### Day 19: February 11, 2020
+
+**Today's Progress**: freecodecamp (Invert a Binary Tree)
+
+**Thoughts:**  easy
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/invert-a-binary-tree
+
+
+### Day 20: February 12, 2020
+
+**Today's Progress**: freecodecamp (Create a Trie Search Tree)
+
+**Thoughts:**  soooo long 
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-trie-search-tree
+
+
+### Day 21: February 13, 2020
+
+**Today's Progress**: freecodecamp (Insert an Element into a Max Heap)
+
+**Thoughts:**  I didn't know about Max Heap before.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/insert-an-element-into-a-max-heap
+                  
+                 
