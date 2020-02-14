@@ -196,5 +196,14 @@
 **Thoughts:**  I didn't know about Max Heap before.
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/insert-an-element-into-a-max-heap
-                  
+
+
+### Day 22: February 14, 2020
+
+**Today's Progress**: freecodecamp (6)
+
+**Thoughts:**  Again sort and search.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-an-element-from-a-max-heap - 
+https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth-first-search
                  
