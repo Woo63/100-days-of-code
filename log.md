@@ -207,3 +207,11 @@
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-an-element-from-a-max-heap - 
 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth-first-search
                  
+
+### Day 23: February 15, 2020
+
+**Today's Progress**: freecodecamp (Depth-First Search)
+
+**Thoughts:**  I finished Data Structures section.
+
+**Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/depth-first-search
