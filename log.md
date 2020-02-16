@@ -215,3 +215,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:**  I finished Data Structures section.
 
 **Link to work:** https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/depth-first-search
+
+
+### Day 24: February 16, 2020
+
+**Today's Progress**: freecodecamp (Basic JavaScript 61)
+
+**Thoughts:**  Repeating the basics.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator
