@@ -242,3 +242,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:**  Repeating the basics.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers
+
+
+### Day 27: February 19, 2020
+
+**Today's Progress**: freecodecamp (ES6 18)
+
+**Thoughts:**  Repeating the basics.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6
