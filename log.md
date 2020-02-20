@@ -251,3 +251,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:**  Repeating the basics.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6
+
+
+### Day 28: February 20, 2020
+
+**Today's Progress**: freecodecamp (ES6 14)
+
+**Thoughts:**  Repeating the basics.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch
