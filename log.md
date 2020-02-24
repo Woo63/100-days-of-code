@@ -260,3 +260,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:**  Repeating the basics.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch
+
+
+### Day 29: February 21, 2020
+
+**Today's Progress**: freecodecamp (Regular Expressions 13)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching
