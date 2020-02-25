@@ -269,3 +269,21 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** 
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching
+
+
+### Day 30: February 24, 2020
+
+**Today's Progress**: freecodecamp (Regular Expressions 9)
+
+**Thoughts:** 
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace
+
+
+### Day 31: February 25, 2020
+
+**Today's Progress**: freecodecamp (Regular Expressions 11)
+
+**Thoughts:** I finished Regular Expressions.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end
