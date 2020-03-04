@@ -287,3 +287,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** I finished Regular Expressions.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end
+
+
+### Day 32: March 4, 2020
+
+**Today's Progress**: freecodecamp (Debugging)
+
+**Thoughts:** I finished Debugging.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition
