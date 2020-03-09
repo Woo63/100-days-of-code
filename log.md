@@ -296,3 +296,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** I finished Debugging.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition
+
+
+### Day 33: March 9, 2020
+
+**Today's Progress**: freecodecamp (Basic Data Structures)
+
+**Thoughts:** I finished Basic Data Structures
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object
