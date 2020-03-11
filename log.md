@@ -305,3 +305,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** I finished Basic Data Structures
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object
+
+
+### Day 34: March 11, 2020
+
+**Today's Progress**: freecodecamp (Data Visualization with D3)
+
+**Thoughts:** I finished Data Visualization with D3
+
+**Link to work:** https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization
