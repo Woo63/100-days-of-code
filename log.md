@@ -314,3 +314,12 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** I finished Data Visualization with D3
 
 **Link to work:** https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization
+
+
+### Day 35: March 12, 2020
+
+**Today's Progress**: freecodecamp (JSON APIs and Ajax)
+
+**Thoughts:** I finished JSON APIs and Ajax.
+
+**Link to work:** https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/post-data-with-the-javascript-xmlhttprequest-method
