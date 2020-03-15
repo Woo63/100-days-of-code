@@ -323,3 +323,30 @@ https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/breadth
 **Thoughts:** I finished JSON APIs and Ajax.
 
 **Link to work:** https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/post-data-with-the-javascript-xmlhttprequest-method
+
+
+### Day 36: March 13, 2020
+
+**Today's Progress**: I got a new project, created a layout and read swagger documentation.
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/swagger-api/swagger-js
+
+
+### Day 37: March 14, 2020
+
+**Today's Progress**: I worked out three blocks of React course lessons + freecodecamp(React 10).
+
+**Thoughts:** I refresh memories.
+
+**Link to work:** https://www.freecodecamp.org/learn/front-end-libraries/react/use-react-to-render-nested-components
+
+
+### Day 38: March 15, 2020
+
+**Today's Progress**: I worked out two blocks of React course lessons, created a react project and finished fist part.
+
+**Thoughts:** I am satisfied with the work done.
+
+**Link to work:**
